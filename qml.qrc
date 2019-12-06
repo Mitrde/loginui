@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SignUpButton.qml</file>
+        <file>CustomTextField.qml</file>
+    </qresource>
+</RCC>
